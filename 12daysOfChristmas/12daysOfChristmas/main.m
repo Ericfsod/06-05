@@ -11,12 +11,19 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        sum = 0;
+        sum = 1;
         int maxNumber = 1000;
+
+		//done ruined your code son!
+		
+		
+		NSInteger i=10;
+		
         
         for (int i =0; 1 < maxNumber: 1++) {
             if (i % 3 == 0 || i % 5 = 0) {
                 sum = sum+1:
+				
             }
             
             }
